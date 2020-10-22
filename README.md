@@ -10,15 +10,13 @@ Vous pouvez aussi [me contacter sur workplace](https://openclassrooms.workplace.
 
 **Taille :** ~500 membres
 
-**Gestionnaire(s) :** Alexandre Leclerc [Lien Workplace](https://openclassrooms.workplace.com/profile.php?id=100043455493717) - Discord : SilverAlex#1916
+**Gestionnaire :** Alexandre Leclerc [Lien Workplace](https://openclassrooms.workplace.com/profile.php?id=100043455493717) - Discord : SilverAlex#1916
 
 ## DA - Frontend
 
 **Concept :** Discussions, entraide et soutient autour du parcours développeur web / développeur web front-end et de ses projets
 
 **Taille :** ~150 membres
-
-**Gestionnaire(s) :** Nom Prénom [Lien Workplace](https://openclassrooms.workplace.com/profile.php) - Discord : iconnu#0000
 
 ## dev.cafe
 
