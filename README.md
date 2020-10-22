@@ -12,11 +12,15 @@ Vous pouvez aussi [me contacter sur workplace](https://openclassrooms.workplace.
 
 **Gestionnaire :** Alexandre Leclerc [Lien Workplace](https://openclassrooms.workplace.com/profile.php?id=100043455493717) - Discord : SilverAlex#1916
 
+[https://discord.gg/u7dxx3K](https://discord.gg/u7dxx3K)
+
 ## DA - Frontend
 
 **Concept :** Discussions, entraide et soutient autour du parcours développeur web / développeur web front-end et de ses projets
 
 **Taille :** ~150 membres
+
+[https://discord.gg/SKJVyew](https://discord.gg/SKJVyew)
 
 ## dev.cafe
 
@@ -27,3 +31,5 @@ Vous pouvez aussi [me contacter sur workplace](https://openclassrooms.workplace.
 **Gestionnaire(s) :**
 - Barré Mathis [Workplace](https://openclassrooms.workplace.com/profile.php?id=100054767869328) - Discord : Mania#6276
 - Florand Grégory [Workplace](https://openclassrooms.workplace.com/chat/t/100055833791145)
+
+(https://discord.gg/f6BsPK9)[https://discord.gg/f6BsPK9]
