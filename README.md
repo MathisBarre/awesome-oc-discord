@@ -6,7 +6,7 @@ Vous pouvez aussi [me contacter sur workplace](https://openclassrooms.workplace.
 
 ## Sans prise de tech
 
-**Concept :** Serveur général pour toute la communauté OpenClassroom et plus généralement de la communauté développeur 
+**Concept :** Serveur général pour toute la communauté OpenClassroom
 
 **Taille :** ~500 membres
 
