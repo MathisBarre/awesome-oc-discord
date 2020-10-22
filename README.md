@@ -6,11 +6,11 @@ Vous pouvez aussi [me contacter sur workplace](https://openclassrooms.workplace.
 
 ## Sans prise de tech
 
-**Concept :** Serveur général pour toute la communauté OpenClassroom
+**Concept :** Serveur général pour toute la communauté OpenClassroom et plus généralement de la communauté développeur 
 
-**Taille :** ~400 membres
+**Taille :** ~500 membres
 
-**Gestionnaire(s) :** Nom Prénom [Lien Workplace](https://openclassrooms.workplace.com/profile.php) - Discord : iconnu#0000
+**Gestionnaire(s) :** Alexandre Leclerc [Lien Workplace](https://openclassrooms.workplace.com/profile.php?id=100043455493717) - Discord : SilverAlex#1916
 
 ## DA - Frontend
 
