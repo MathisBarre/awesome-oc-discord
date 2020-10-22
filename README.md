@@ -32,4 +32,4 @@ Vous pouvez aussi [me contacter sur workplace](https://openclassrooms.workplace.
 - Barré Mathis [Workplace](https://openclassrooms.workplace.com/profile.php?id=100054767869328) - Discord : Mania#6276
 - Florand Grégory [Workplace](https://openclassrooms.workplace.com/chat/t/100055833791145)
 
-(https://discord.gg/f6BsPK9)[https://discord.gg/f6BsPK9]
+[https://discord.gg/f6BsPK9](https://discord.gg/f6BsPK9)
