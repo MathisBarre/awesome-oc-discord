@@ -1,12 +1,12 @@
 # Awesome OpenClassroom discord list !
 
-Il sagit là juste d'une liste de tous les discord liés à la communauté OpenClassroom.
+Il sagit là juste d'une liste de tous les discord liés à la communauté OpenClassrooms.
 Pour rajouter votre serveur ou y faire des modifications, il suffit de faire un petit pull request et le tour et joué !
 Vous pouvez aussi [me contacter sur workplace](https://openclassrooms.workplace.com/profile.php?id=100054767869328) ou me rajouter sur discord (Mania#6276)
 
 ## Sans prise de tech
 
-**Concept :** Serveur général pour toute la communauté OpenClassroom
+**Concept :** Serveur général pour toute la communauté OpenClassrooms
 
 **Taille :** ~500 membres
 
