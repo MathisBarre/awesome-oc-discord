@@ -14,6 +14,14 @@ Vous pouvez aussi [me contacter sur workplace](https://openclassrooms.workplace.
 
 [https://discord.gg/u7dxx3K](https://discord.gg/u7dxx3K)
 
+## PrepWeb & Développeur web
+
+**Concept :** Discussions & entraide parcours développeur web
+
+**Taille :** ~250 membres
+
+[https://discord.gg/DPyyzrT](https://discord.gg/DPyyzrT)
+
 ## DA - Frontend
 
 **Concept :** Discussions, entraide et soutient autour du parcours développeur web / développeur web front-end et de ses projets
@@ -21,6 +29,14 @@ Vous pouvez aussi [me contacter sur workplace](https://openclassrooms.workplace.
 **Taille :** ~150 membres
 
 [https://discord.gg/SKJVyew](https://discord.gg/SKJVyew)
+
+## OpenClassrooms web dev 2020/2021
+
+**Concept :** Discussions, entraide et soutient autour du parcours développeur web de la rentrée 2020/2021
+
+**Taille :** ~125 membres
+
+[https://discord.gg/f7eEDFF](https://discord.gg/f7eEDFF)
 
 ## dev.cafe
 
