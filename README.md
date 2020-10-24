@@ -16,11 +16,16 @@ Vous pouvez aussi [me contacter sur workplace](https://openclassrooms.workplace.
 
 ## PrepWeb & Développeur web
 
-**Concept :** Discussions & entraide parcours développeur web
+**Concept :** Discussions & entraide parcours développeur web, ainsi que des channels de discussion post-formation (emplois, stacks, projets hors formation)
 
-**Taille :** ~250 membres
+**Taille :** ~250 membres y compris 15 mentors OC
 
 [https://discord.gg/DPyyzrT](https://discord.gg/DPyyzrT)
+
+**Créatrice** Pauline - Discord : Scarounine#3166
+**Administrateurs** 
+Paul (Frenchy) - Discord : Frenchy#3615
+ReadLo - Discord : ReadLo#1097
 
 ## DA - Frontend
 
