@@ -6,13 +6,13 @@ Vous pouvez aussi [me contacter sur workplace](https://openclassrooms.workplace.
 
 ## Sans prise de tech
 
-**Concept :** Serveur général pour toute la communauté OpenClassrooms
+**Concept :** Serveur indépendant général pour toute la communauté OpenClassrooms
 
-**Taille :** ~500 membres
+**Taille :** ~3000 membres
 
-**Gestionnaire :** Alexandre Leclerc [Lien Workplace](https://openclassrooms.workplace.com/profile.php?id=100043455493717) - Discord : SilverAlex#1916
+**Gestionnaire :** Alexandre Leclerc [Lien Workplace](https://openclassrooms.workplace.com/profile.php?id=100043455493717) - Discord : Alexandre.L#1916
 
-[https://discord.gg/u7dxx3K](https://discord.gg/u7dxx3K)
+[https://discord.gg/spdt](https://discord.gg/spdt)
 
 ## PrepWeb & Développeur web
 
@@ -23,7 +23,7 @@ Vous pouvez aussi [me contacter sur workplace](https://openclassrooms.workplace.
 [https://discord.gg/DPyyzrT](https://discord.gg/DPyyzrT)
 
 **Créatrice** Pauline - Discord : Scarounine#3166
-**Administrateurs** 
+**Administrateurs**
 Paul (Frenchy) - Discord : Frenchy#3615
 ReadLo - Discord : ReadLo#1097
 
@@ -50,6 +50,7 @@ ReadLo - Discord : ReadLo#1097
 **Taille :** ~20 membres
 
 **Gestionnaire(s) :**
+
 - Barré Mathis [Workplace](https://openclassrooms.workplace.com/profile.php?id=100054767869328) - Discord : Mania#6276
 - Florand Grégory [Workplace](https://openclassrooms.workplace.com/chat/t/100055833791145)
 
