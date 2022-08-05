@@ -29,7 +29,7 @@ ReadLo - Discord : ReadLo#1097
 
 ## DA - Frontend
 
-**Concept :** Discussions, entraide et soutient autour du parcours développeur web / développeur web front-end et de ses projets
+**Concept :** Discussions & entraide sur le parcours développeur Front-End ancienne et nouvelle génération. Le Discord n'est pas fermé aux autres étudiants de parcours différents qui recherchent de l'aide. Cependant les salons principaux sont dédiés à la formation Front-End.
 
 **Taille :** ~150 membres
 
