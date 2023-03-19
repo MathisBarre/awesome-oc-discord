@@ -1,4 +1,4 @@
-# Awesome OpenClassroom discord list !
+# Awesome OpenClassroom Discord list !
 
 Il sagit là juste d'une liste de tous les discord liés à la communauté OpenClassrooms.
 Pour rajouter votre serveur ou y faire des modifications, il suffit de faire un petit pull request et le tour et joué !
