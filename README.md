@@ -158,7 +158,9 @@ Vous pouvez aussi m'ajouter sur discord ([Mania#6276](https://discordapp.com/use
 
 **Taille :** ~200 membres
 
-**Créateur :** ? - Discord : ?#?
+**Créateur :** Maxence - Discord : Mahkalix#2550
+
+**Staff :** Seb - Discord Anrazzi#8508 | ? - Discord : Joker 🤡#3577 | ? - Discord : Ls_Sneax#6951 | ? - Discord : Mylano#2801 | Alexis Cresson - Discord : Al3xis_Cr3sson#2100 | Amaury - Discord : Amaury#0929 | ? - Discord : Son Gotin#8361 | ? - Discord : Switch#4047 | ? - Discord : 𝘼𝙚𝙇𝙗𝙪𝙎#4295
 
 [https://discord.gg/Qtwup7MCs4](https://discord.gg/Qtwup7MCs4)
 
