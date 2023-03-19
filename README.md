@@ -65,6 +65,7 @@ Vous pouvez aussi m'ajouter sur discord ([Mania#6276](https://discordapp.com/use
 **Taille :** ~500 membres
 
 **Créateur :** ? - Discord : ?#?
+
 **Staff :** Emmanuelle - Discord : F A T H O M S#0391 | Nicolas - Discord : MessN#2500
 
 [https://discord.gg/cSzvFnzRpw](https://discord.gg/cSzvFnzRpw)
