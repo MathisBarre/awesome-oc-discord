@@ -11,6 +11,7 @@ Vous pouvez aussi m'ajouter sur discord ([Mania#6276](https://discordapp.com/use
 **Taille :** ~3000 membres
 
 **Créateur :** Alexandre Leclerc - Discord : Alexandre.L#1916
+
 **Staff :** Stan Daniels-Roth - Discord : MrStanDu33#4269
 
 [https://discord.gg/spdt](https://discord.gg/spdt)
