@@ -84,11 +84,13 @@ Vous pouvez aussi m'ajouter sur discord ([Mania#6276](https://discordapp.com/use
 
 ## OCDA PHP/Symfony
 
-**Concept :** Sevreur regroupant les étudiants et mentors de la formation Développeur d'application PHP/Symfony
+**Concept :** Serveur regroupant les étudiant(e)s et mentors de la formation Développeur d'application PHP/Symfony
 
 **Taille :** ~300 membres
 
-**Staff :** Estelle Gaits - Discord : totoche65#7910
+**Créatrice :** Estelle Gaits - Discord : totoche65#7910
+
+**Staff :** Estelle Gaits - Discord : totoche65#7910   | Sébastien Dru - Discord : [P7]SeBZz#0343 | TrAsKiN - Discord : TrAsKiN#5255 
 
 [https://discord.gg/3mzQ9MSvQu](https://discord.gg/3mzQ9MSvQu)
 
